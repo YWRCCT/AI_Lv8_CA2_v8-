@@ -8,10 +8,10 @@ The starting point of the game is represented by A, the solution is represented 
 ![image](https://github.com/YWRCCT/AI_Lv8_CA2_v8-/assets/145453082/33f2b4db-ffbc-4e2b-aa26-2e111bbb5c3e)
 
 (a)	The graph in Fig. 1 is a visualisation of the problem. 
-(i)	Identify the differences between a graph and a tree. [0-5] 
-(ii)	Explain in detail how the graph is an abstraction of the problem. [0-5]
-(iii)	Identify the advantages of using a visualisation such as the one shown in Fig. 1. [0-5]
-(b)	Demonstrate how Dijkstra’s algorithm would find the shortest path to the solution in Fig.1 through diagrams and written explanation of each stage. [0-25]
+(i)	Identify the differences between a graph and a tree. 
+(ii)	Explain in detail how the graph is an abstraction of the problem.
+(iii)	Identify the advantages of using a visualisation such as the one shown in Fig. 1.
+(b)	Demonstrate how Dijkstra’s algorithm would find the shortest path to the solution in Fig.1 through diagrams and written explanation of each stage.
 
 2	The creator of the puzzle has been told that the A* algorithm is more efficient at finding the shortest path because it uses heuristics. 
 Compare the performance of Dijkstra’s algorithm and the A* search algorithm, referring to heuristics, to find the shortest path to the problem by implementing both algorithms programmatically 
